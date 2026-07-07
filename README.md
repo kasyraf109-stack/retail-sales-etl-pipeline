@@ -159,6 +159,7 @@ retail-sales-etl-pipeline/
 └── data/
     └── Superstore.csv
 
+```
 ---
 
 ## How to Run This Project
