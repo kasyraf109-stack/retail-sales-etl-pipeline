@@ -158,9 +158,6 @@ retail-sales-etl-pipeline/
 │
 └── data/
     └── Superstore.csv
-```
-
-Note: The `data/` and `output/` folders are optional. If the raw dataset is not included in the repository, add a note explaining where the dataset can be downloaded from.
 
 ---
 
