@@ -157,7 +157,7 @@ retail-sales-etl-pipeline/
 │   └── fact_sales.csv
 │
 └── data/
-    └── Superstore.csv
+    └── superstore_dataset.csv
 
 ```
 ---
